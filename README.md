@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan-5&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan-5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavankalyan-5" alt="pavankalyan-5" /></a> </p>
-
 - 🔭 I’m currently working on **E-library management system**
 
 - 🌱 I’m currently learning **Competitive programming**
