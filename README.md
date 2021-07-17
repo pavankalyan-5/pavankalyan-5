@@ -32,8 +32,13 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankalyan-5&show_icons=true&locale=en&layout=compact" alt="pavankalyan-5" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankalyan-5&show_icons=true&locale=en&layout=compact" alt="pavankalyan-5" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankalyan-5&show_icons=true&locale=en" alt="pavankalyan-5" /></p>
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyan-5&show_icons=true&locale=en" alt="pavankalyan-5" />
+</p>
+
 
 ⭐️ From [pavankalyan-5](https://github.com/pavankalyan-5)
