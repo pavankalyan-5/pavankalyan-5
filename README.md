@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Guntuboina</h1>
-<h3 align="center">| CODER | WED DEVELOPER | SELF-LEARNER |</h3>
+<h3 align="center">| CODER | WEB DEVELOPER | SELF-LEARNER |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan-5&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan-5" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/bPHcsTs.gif">
