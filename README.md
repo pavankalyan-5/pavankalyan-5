@@ -63,4 +63,4 @@
 ⭐️ From [pavankalyan-5](https://github.com/pavankalyan-5)
 
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pavankalyan-5/vigneshmanyala/blob/main/thnks.svg"/>
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pavankalyan-5/pavankalyan-5/blob/main/thnks.svg"/>
