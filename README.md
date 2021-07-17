@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Guntuboina Pavan Kalyan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> </h1> 
+<h1 align="center">Hi <img src = Hi.gif height = "32px">, I'm Guntuboina Pavan Kalyan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> </h1> 
 <h3 align="center">| CODER | WEB DEVELOPER | SELF-LEARNER |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan-5&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan-5" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavankalyan-5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>•  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/pavankalyan-5?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/pavankalyan-5?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -32,13 +36,31 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+
+<h3>🎁 My Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankalyan-5&show_icons=true&locale=en&layout=compact" alt="pavankalyan-5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankalyan-5&theme=radical&show_icons=true" alt="pavankalyan" /></p>
 </p>
 
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyan-5&show_icons=true&locale=en" alt="pavankalyan-5" />
+<br>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyan-5&theme=radical&show_icons=true" alt="pavan's Github Stats" />
 </p>
 
+<h3 align="center"> What i Love ❤️</h3>
+<p>
+
+| <img  align="center" src="https://github.com/pavankalyan-5/pavankalyan-5/blob/main/coding-freak.gif" width="110" height="100"> | <img align="center" src="https://lh3.googleusercontent.com/proxy/0ns3cyoYGDmwuiSoypr1ci4zCe67v3OPiaCPdKSheaXxsSLeGk5C9wUXl8t7zegPmkQ6mXU4nZtMPLwG8HTr68I0uOGSMpXP0FwWU7m8zJsR" width="110" height="100"> | 
+| :---: | :---: |
+| <b>Coding</b> | <b>Cricket</b> |
+  
+ </p>
+
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/pavankalyan-5?tab=repositories'> Repositories</a></h4>
 
 ⭐️ From [pavankalyan-5](https://github.com/pavankalyan-5)
+
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pavankalyan-5/vigneshmanyala/blob/main/thnks.svg"/>
