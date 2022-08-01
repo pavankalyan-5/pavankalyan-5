@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as **Software Enginner - I @ EagleView**
 
-- 🌱 I’m currently learning **Competitive programming**
+- 🌱 I’m currently learning **GO Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankalyan-5](https://github.com/pavankalyan-5)
 
